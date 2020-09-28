@@ -47,7 +47,7 @@
         <div class="form-group row">
             <label for="size" class="col-sm-2 col-form-label"><small>Tamaño</small></label>
             <div class="col-sm-10">
-            <input type="text" class="form-control" id="" placeholder="Tamaño" v-model="tamano">
+            <input type="text" class="form-control" id="" placeholder="100" v-model="tamano">
             </div>
         </div>
         </form>
